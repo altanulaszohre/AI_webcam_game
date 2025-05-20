@@ -89,3 +89,6 @@ This project is open source and available under the MIT License.
 Special thanks to the creators of:
 - [Mediapipe](https://github.com/google/mediapipe)
 - [Pygame](https://www.pygame.org/)
+
+
+***Altan Ulaş Zöhre***
